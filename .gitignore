@@ -1,6 +1,9 @@
 # Environment variables (contains secrets)
 .env
 
+# Neo4j AuraDB credentials file
+Neo4j-*.txt
+
 # Python
 __pycache__/
 *.py[cod]
